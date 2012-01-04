@@ -1,12 +1,12 @@
 Setup
 =====
 - Open Settings.py and complete MySQL database settings
-Next open terminal to the directory that holds the crawler and enter commands
+- Next open terminal to the directory that holds the crawler and enter commands
 - start url
 - crawl depth 
 - verbose (this command is optional)
-The final command should look something like:
-./crawler.py http://example.com 1
+- The final command should look something like:
+- ./crawler.py http://example.com 1
 
 Current State
 =============
