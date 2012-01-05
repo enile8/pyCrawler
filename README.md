@@ -16,8 +16,8 @@ Current State
 
 Dependencies
 ============
-- BeautifulSoup (http://www.crummy.com/software/BeautifulSoup/)
-- MySQLdb (http://sourceforge.net/projects/mysql-python/)
+- [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
+- [MySQLdb](http://sourceforge.net/projects/mysql-python/)
 
 Feature Plans
 =============
@@ -26,4 +26,4 @@ Feature Plans
 
 Props
 =====
-Thanks to Ryan Merl (https://github.com/theanti9), this project was a fork of an earlier version of his PyCrawler (https://github.com/theanti9/PyCrawler).
+Thanks to [Ryan Merl](https://github.com/theanti9), this project was a fork of an earlier version of his [PyCrawler](https://github.com/theanti9/PyCrawler).
